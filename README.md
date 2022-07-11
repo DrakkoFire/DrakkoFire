@@ -81,7 +81,6 @@ I'm **DrakkoFire**, FullStack Developer from <img src="https://image.flaticon.co
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Discord](https://img.shields.io/badge/discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white)][discord]
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)][github]
 [![DevTo](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)][devto]
 
