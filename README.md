@@ -32,29 +32,48 @@ I'm **DrakkoFire**, FullStack Developer from <img src="https://image.flaticon.co
 
 ```json
 {
-    "pronouns": ["he", "him", "his"],
-    "fullName": "Iván Palacios",
-    "username": "DrakkoFire",
-    "createdAt": "1999-02-28T14:55:00.000+00:00",
-    "from": "Algeciras, Spain",
-    "height": 175,
-    "education": "IFPS Puenteuropa",
-    "job": "FullStack Developer",
-    "code": ["JavaScript", "PHP", "Python", "C++", "markdown"],
-    "pet": {
-        "type": "dog",
-        "breed": "Doberman",
-        "name": "Sultán",
-        "age": 6,
-        "color": "black",
-        "isAwesome": true
+  "fullName": "Iván Palacios",
+  "username": "DrakkoFire",
+  "createdAt": "1999-02-28",
+  "from": "Algeciras, Spain",
+  "height": 175,
+  "job": "FullStack Developer",
+  "code": [
+    "JavaScript",
+    "TypeScript",
+    "NodeJS",
+    "PHP",
+    "Python",
+    "C++",
+    "markdown"
+  ],
+  "libraries": [
+    {
+      "language": "PHP",
+      "version": "^7.1",
+      "libraries": ["Laravel", "Slim"]
+    },
+    {
+      "language": "JavaScript",
+      "version": "ECMAScript 1 - ECMAScript 2018",
+      "libraries": [
+        "React",
+        "NextJS",
+        "Redux",
+        "NodeJS",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "MySQL",
+        "TypeScript",
+        "Angular",
+        "NestJS"
+      ]
     }
+  ]
 }
+
 ```
-
-## 📊 Coding stats
-
-![DrakkoFire's coding stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@DrakkoFire&hide_title=true&hide_border=true&langs_count=5)
 
 ## 🚀 Let's connect
 
@@ -73,7 +92,6 @@ I'm **DrakkoFire**, FullStack Developer from <img src="https://image.flaticon.co
 
 [website]: https://drakkofire.com
 [twitter]: https://twitter.com/DrakkoFire
-[instagram]: https://instagram.com/DrakkoFire
 [linkedin]: https://linkedin.com/in/ivanpalaciosy
 [github]: https://github.com/drakkofire
 [devto]: https://dev.to/drakkofire
