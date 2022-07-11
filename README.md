@@ -84,10 +84,6 @@ I'm **DrakkoFire**, FullStack Developer from <img src="https://image.flaticon.co
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)][github]
 [![DevTo](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)][devto]
 
-<br />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=drakkofire.drakkofire)
-
 
 [website]: https://drakkofire.com
 [twitter]: https://twitter.com/DrakkoFire
