@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=drakkofire.com&style=for-the-badge&url=https%3A%2F%2Fdrakkofire.com)](https://drakkofire.com)
 
-I'm **DrakkoFire**, FullStack Developer from <img src="https://image.flaticon.com/icons/png/512/299/299820.png" width="15"/> **Algeciras, Spain**, I love coding, but not as much as I love my doggie <img src="https://emojis.slackmojis.com/emojis/images/1527792535/4023/doge.png?1527792535" width="30"/>
+I'm **DrakkoFire**, FullStack Developer
 
 ## ⚡ Technologies
 
@@ -77,7 +77,6 @@ I'm **DrakkoFire**, FullStack Developer from <img src="https://image.flaticon.co
 
 ## 🚀 Let's connect
 
-[![Website](https://img.shields.io/badge/Website-%230A0A0A.svg?&style=for-the-badge&logo=&logoColor=white)][website]
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Discord](https://img.shields.io/badge/discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white)][discord]
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -85,7 +84,6 @@ I'm **DrakkoFire**, FullStack Developer from <img src="https://image.flaticon.co
 [![DevTo](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)][devto]
 
 
-[website]: https://drakkofire.com
 [twitter]: https://twitter.com/DrakkoFire
 [linkedin]: https://linkedin.com/in/ivanpalaciosy
 [github]: https://github.com/drakkofire
