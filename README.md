@@ -1,91 +1,53 @@
-![DrakkoFire](./name.svg)
+### 👋 Hola! I’m a Senior Full‑Stack Developer
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my Github
+☕ Coffee‑fuelled, solution‑driven, code‑obsessed.  
+🇪🇸 Spanish-made technology, coding on macOS, shipping fixes and features across the globe.
 
-[![Website](https://img.shields.io/website?label=drakkofire.com&style=for-the-badge&url=https%3A%2F%2Fdrakkofire.com)](https://drakkofire.com)
+---
 
-I'm **DrakkoFire**, FullStack Developer
+## 🚀 What I Do
 
-## ⚡ Technologies
+- **Solve real problems** end‑to‑end: from identifying bottlenecks to rolling out robust solutions.  
+- **Ship fast & safely** using Docker, GitHub Actions, and Dokploy.  
+- **Build & maintain** with Laravel & PHP on the backend; React on the frontend.  
+- **Automate & optimize** everything—code, databases, workflows, CI/CD pipelines or day‑to‑day processes.  
+- **Tackle complexity** head‑on: I’ve led and shipped multiple large‑scale projects, always hunting for the elegant fix.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PassportJS](https://img.shields.io/badge/PassportJS-34E27A?style=flat-square&logo=passport&logoColor=white)
-![Python 3](https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white)
-![php](https://img.shields.io/badge/php-777bb4?style=flat-square&logo=php&logoColor=white)
-![laravel](https://img.shields.io/badge/laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+---
 
-## 👦🏻 Populated Model
+## 🛠️ My Toolbox
 
-```json
-{
-  "fullName": "Iván Palacios",
-  "username": "DrakkoFire",
-  "createdAt": "1999-02-28",
-  "from": "Algeciras, Spain",
-  "height": 175,
-  "job": "FullStack Developer",
-  "code": [
-    "JavaScript",
-    "TypeScript",
-    "NodeJS",
-    "PHP",
-    "Python",
-    "C++",
-    "markdown"
-  ],
-  "libraries": [
-    {
-      "language": "PHP",
-      "version": "^7.1",
-      "libraries": ["Laravel", "Slim"]
-    },
-    {
-      "language": "JavaScript",
-      "version": "ECMAScript 1 - ECMAScript 2018",
-      "libraries": [
-        "React",
-        "NextJS",
-        "Redux",
-        "NodeJS",
-        "Express",
-        "MongoDB",
-        "Mongoose",
-        "MySQL",
-        "TypeScript",
-        "Angular",
-        "NestJS"
-      ]
-    }
-  ]
-}
+![Laravel](https://img.shields.io/badge/-Laravel-EF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Dokploy](https://img.shields.io/badge/-Dokploy-00A3E0?style=flat-square&logo=github)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-```
+---
 
-## 🚀 Let's connect
+## ⚙️ Workflow & Philosophy
 
-[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![Discord](https://img.shields.io/badge/discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white)][discord]
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Github](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)][github]
-[![DevTo](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)][devto]
+1. **Discover** the root cause—question assumptions, dig into data.  
+2. **Design** a lean, maintainable solution: code that’s easy to read and test.  
+3. **Automate** repetitive tasks—free up time to think.  
+4. **Ship** early and often, with CI/CD guards in place.  
+5. **Measure & iterate**—never settle; every process can be faster, safer, smarter.
 
+---
 
-[twitter]: https://twitter.com/DrakkoFire
-[linkedin]: https://linkedin.com/in/ivanpalaciosy
-[github]: https://github.com/drakkofire
-[devto]: https://dev.to/drakkofire
-[discord]: https://discordapp.com/users/505485595359838211
+## 📬 Let’s Connect
+
+- 🐙 [GitHub](https://github.com/drakkofire)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivanpalaciosy/)  
+
+---
+
+> If you don't break everything while trying to improve the code, are you really trying?
+
+---
+
+<p align="center">
+  Made with ❤️ & ☕  
+</p>
