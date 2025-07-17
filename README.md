@@ -1,4 +1,4 @@
-### 👋 Hola! I’m a Senior Full‑Stack Developer
+### 👋 Hola!
 
 ☕ Coffee‑fuelled, solution‑driven, code‑obsessed.  
 🇪🇸 Spanish-made technology, coding on macOS, shipping fixes and features across the globe.
